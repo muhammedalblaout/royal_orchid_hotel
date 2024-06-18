@@ -1,16 +1,23 @@
-# royal_orchid_hotel
+<div align="center">
 
-A new Flutter project.
+  <img src="read_me/logo.png" alt="logo" width="200" height="auto" />
+  <h1>Awesome Readme Template</h1>
 
-## Getting Started
+  <p>
+    An awesome README template for your projects! 
+  </p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<!-- Badges -->
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h4>
+    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+  </h4>
+</div>
