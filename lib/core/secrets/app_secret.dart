@@ -1,0 +1,4 @@
+class AppSecret{
+  static String url="https://yfxgskfasqcnntqenkqi.supabase.co";
+  static String key ="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlmeGdza2Zhc3Fjbm50cWVua3FpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTQ0OTUwMDcsImV4cCI6MjAzMDA3MTAwN30.ww1c1JrvotQuOMDMw2-tIqNtrUMkQItp9mLnLS7dy6Q";
+}
