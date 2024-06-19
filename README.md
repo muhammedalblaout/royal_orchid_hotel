@@ -33,3 +33,10 @@ Hotel management system for streamline and automate various operations within a 
 - Employee Directory: Access a comprehensive list of all employees, enabling managers to quickly search and locate specific individuals.
 - Employee Directory: Access a comprehensive list of all employees, enabling managers to quickly search and locate specific individuals.
 
+<div align="center"> 
+  <img src="read_me/admin_f3.png" alt="screenshot" />
+</div>
+
+### :dart: Features
+- Service Management: The Admin has the ability to add and modify hotel services, allowing for easy customization and adaptation to meet customer needs.
+- Room Change Requests: The app enables the Admin to promptly respond to customer requests for room changes, ensuring a seamless and efficient experience for guests.
