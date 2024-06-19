@@ -59,3 +59,14 @@ Hotel management system for streamline and automate various operations within a 
 - Room Location Display: Customers can view the location of their hotel room on a hotel floor plan, providing them with a visual representation of their room's position within the hotel.
 - Room Change Request: Customers have the ability to request a room change, allowing them to easily switch to a different room based on their preferences or needs.
 
+## :star2: Employee Part
+<div align="center"> 
+  <img src="read_me/staff_f1.png" alt="screenshot" />
+</div>
+
+### :dart: Features
+- Employee Task Display: Employees can view their assigned tasks and associated details, including room location and customer information.
+- Task Information Display: Employees have access to detailed information about each task, allowing them to effectively and efficiently complete their duties.
+- Activity Tracking: The app enables employees to track their activity and monitor their progress, ensuring a productive and streamlined work experience.
+
+
