@@ -50,3 +50,12 @@ Hotel management system for streamline and automate various operations within a 
 - Service Request: Customers can easily request services from the hotel, ensuring a seamless and convenient experience for their needs and preferences.
 - Service Tracking:  Customers will have the ability to track the status of their service requests. This feature allows customers to easily monitor the progress of their service requests, ensuring transparency and providing peace of mind.
 - Invoice Viewing: Customers will also have access to their invoices for the services provided to them. This feature allows customers to view invoices, providing them with a clear breakdown of the services rendered and associated costs.
+
+<div align="center"> 
+  <img src="read_me/customer_f2.png" alt="screenshot" />
+</div>
+
+### :dart: Features
+- Room Location Display: Customers can view the location of their hotel room on a hotel floor plan, providing them with a visual representation of their room's position within the hotel.
+- Room Change Request: Customers have the ability to request a room change, allowing them to easily switch to a different room based on their preferences or needs.
+
