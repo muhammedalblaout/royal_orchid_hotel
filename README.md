@@ -30,8 +30,8 @@ Hotel management system for streamline and automate various operations within a 
 
 ### :dart: Features
 - Employee  Account Creation:  Simplify the process of adding employee accounts by allowing Admins to easily input their personal information.
-- Employee Directory: Access a comprehensive list of all employees, enabling managers to quickly search and locate specific individuals.
-- Employee Directory: Access a comprehensive list of all employees, enabling managers to quickly search and locate specific individuals.
+- Employee Directory: Access a comprehensive list of all employees, enabling Admins to quickly search and locate specific individuals.
+- Employee Activity Tracking: Gain valuable insights into employee productivity and progress by allowing Admins to monitor and track their activity and performance.
 
 <div align="center"> 
   <img src="read_me/admin_f3.png" alt="screenshot" />
@@ -40,3 +40,13 @@ Hotel management system for streamline and automate various operations within a 
 ### :dart: Features
 - Service Management: The Admin has the ability to add and modify hotel services, allowing for easy customization and adaptation to meet customer needs.
 - Room Change Requests: The app enables the Admin to promptly respond to customer requests for room changes, ensuring a seamless and efficient experience for guests.
+
+## :star2: Customer Part
+<div align="center"> 
+  <img src="read_me/customer_f1.png" alt="screenshot" />
+</div>
+
+### :dart: Features
+- Service Request: Customers can easily request services from the hotel, ensuring a seamless and convenient experience for their needs and preferences.
+- Service Tracking:  Customers will have the ability to track the status of their service requests. This feature allows customers to easily monitor the progress of their service requests, ensuring transparency and providing peace of mind.
+- Invoice Viewing: Customers will also have access to their invoices for the services provided to them. This feature allows customers to view invoices, providing them with a clear breakdown of the services rendered and associated costs.
