@@ -15,6 +15,11 @@ Hotel management system for streamline and automate various operations within a 
 </div>
 
 ## :star2: Admin Part
+
+<div align="center"> 
+  <img src="read_me/admin.png" alt="screenshot" />
+</div>
+
 <div align="center"> 
   <img src="read_me/admin_f1.png" alt="screenshot" />
 </div>
@@ -43,6 +48,10 @@ Hotel management system for streamline and automate various operations within a 
 
 ## :star2: Customer Part
 <div align="center"> 
+  <img src="read_me/customer.png" alt="screenshot" />
+</div>
+
+<div align="center"> 
   <img src="read_me/customer_f1.png" alt="screenshot" />
 </div>
 
@@ -60,6 +69,9 @@ Hotel management system for streamline and automate various operations within a 
 - Room Change Request: Customers have the ability to request a room change, allowing them to easily switch to a different room based on their preferences or needs.
 
 ## :star2: Employee Part
+<div align="center"> 
+  <img src="read_me/staff.png" alt="screenshot" />
+</div>
 <div align="center"> 
   <img src="read_me/staff_f1.png" alt="screenshot" />
 </div>
