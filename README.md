@@ -7,7 +7,8 @@ Hotel management system for streamline and automate various operations within a 
   </p>
 
 </div>
-# :star2: About the Project
+
+# :star2: About 
 
 <div align="center"> 
   <img src="read_me/main.png" alt="screenshot" />
@@ -22,3 +23,13 @@ Hotel management system for streamline and automate various operations within a 
 - Customer  Account Creation: The Admin can easily add customer accounts with their personal information, simplifying the process of organizing customer data.
 - Customer Directory: The Admin has access to a comprehensive list of all customers, making it convenient to browse and locate specific individuals.
 - Invoice Viewing: The Admin can view and access customer invoices, allowing for efficient tracking of customer transactions and payments.
+
+<div align="center"> 
+  <img src="read_me/admin_f2.png" alt="screenshot" />
+</div>
+
+### :dart: Features
+- Employee  Account Creation:  Simplify the process of adding employee accounts by allowing Admins to easily input their personal information.
+- Employee Directory: Access a comprehensive list of all employees, enabling managers to quickly search and locate specific individuals.
+- Employee Directory: Access a comprehensive list of all employees, enabling managers to quickly search and locate specific individuals.
+
